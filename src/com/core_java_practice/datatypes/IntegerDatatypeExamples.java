@@ -6,7 +6,7 @@ public class IntegerDatatypeExamples {
 	static int number_of_pens = 23;
 	static int number_of_chocolates = 13;
 
-	// Datatypes am going there
+	// Datatypes am going thereqEQe
 
 	// static member
 	public static void main(String[] args) {
