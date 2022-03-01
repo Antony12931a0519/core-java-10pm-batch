@@ -246,7 +246,41 @@ gender
 
 
 
+2 ypes of variales
+-------------------
 
+static variables
+ex: 
+static int age = 27;//static variables
+static float weight= 34.5;
+static long slary = 15000;
+static boolen gender=true;
+if the method declaration or variable declartion contains static keyword then we all them as static variables/static methods.
+
+non static variables
+
+ int age = 27;//non static variables
+ float weight= 34.5;
+ long slary = 15000;
+ boolen gender=true;
+
+if the method declaration or variable declartion does not contain static keyword then we all them as non static variables/ non static methods.
+
+
+how to access static variables:
+
+we can access them either by class name or with direct variable name
+
+
+how to access non static variables:
+we have to crate an object to access the non sttaic variables
+
+
+object creation synax:
+
+Classname refname = new className();
+
+ex: IntegerDatatypeExamples integerDatatypeExamples = new  IntegerDatatypeExamples();
 
 
 
