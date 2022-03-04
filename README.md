@@ -1,28 +1,4 @@
 # core-java-10pm-batch
-.project code:
--------
-
-<?xml version="1.0" encoding="UTF-8"?>
-<projectDescription>
-	<name>core-java-10pm-batch</name>
-		<comment></comment>
-	<projects>
-	</projects>
-	<buildSpec>
-		<buildCommand>
-			<name>org.eclipse.jdt.core.javabuilder</name>
-			<arguments>
-			</arguments>
-		</buildCommand>
-	</buildSpec>
-	<natures>
-		<nature>org.eclipse.jdt.core.javanature</nature>
-	</natures>
-</projectDescription>
-
-
-
-
 Java
 -----
 
@@ -305,6 +281,138 @@ object creation synax:
 Classname refname = new className();
 
 ex: IntegerDatatypeExamples integerDatatypeExamples = new  IntegerDatatypeExamples();
+
+
+methods:
+//1   //2       //3
+public boolean isMale;
+
+int/long/float/double/char/String/boolean
+inte/looogn
+
+
+public boolean isMale(){
+}
+
+
+//1     //2   //3   //4  //5
+public static void main(String []args){
+
+
+///6
+
+}
+
+//1   optional
+public---Access specifier
+private-
+protected
+default
+----------------------
+//2--optional
+//static --->leave it as blank
+
+//1     //2   //3   //4  //5
+public  void main(String []args){
+
+
+///6
+
+}
+--------------------
+
+method invocarion/method calling
+
+//3 mandatory
+void--method will return nothing
+
+void addition(int a,int b){
+Sysout(a+b);
+}
+
+
+int addition(int a,int b){
+return a+b;
+}
+
+
+String getName(){
+return "Anthony";
+}
+
+char getInitial(){
+return 'A';
+}
+
+
+
+boolean getInitial(){
+return true;
+}
+
+
+int/float
+
+
+
+------------------
+//4  method name
+mandatory
+
+can be any name
+
+Note: recomendation use meaningful names
+
+int addition(){
+return 1+2;
+}
+
+//mis leading
+int welcome(){
+return 1+2;
+}
+
+-----------------
+
+//5 method inputs/method arguments/intput variables
+
+optional
+
+public static void addition(int a,int b,float c,String name){
+
+
+}
+
+public static void addition(){
+
+
+}
+
+
+public static void addition(int a,int b){
+
+}
+
+
+
+public static int addition(int a,int b,int c){
+return a+b+c;
+}
+
+
+
+
+void printMessage(){
+Sysout("Hello")
+}
+
+int addition(int a,int b){
+return a+b;
+}
+
+
+
+
 
 
 

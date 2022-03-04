@@ -26,7 +26,7 @@ public class IntegerDatatypeExamples {
 		IntegerDatatypeExamples integerDatatypeExamples = new IntegerDatatypeExamples();
 
 		System.out.println("The value for age is :"
-				+ integerDatatypeExamples.age);
+				+ integerDatatypeExamples.age_);
 		System.out.println("The value for number_of_teeth is :"
 				+ integerDatatypeExamples.number_of_teeth);
 		System.out.println("The value for number_of_pens is :"
