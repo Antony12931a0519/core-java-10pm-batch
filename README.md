@@ -412,6 +412,95 @@ return a+b;
 
 
 
+Scanner class
+-------
+used to read the inputs from the console
+
+class name ref = new classname();
+
+Scanner sanner  = new Scanner(System.in);
+
+int a = scanner.nextInt();
+int b = scanner.nextInt();
+
+Control statemets:
+-----------------
+indian voting system
+age
+age>=18 
+then eligible for voting
+
+arthiemtic opertors
++
+-
+/
+%
+*
+
+relational operators
+>
+<
+>=
+<=
+!=
+==
+
+if else block
+
+{
+
+
+}
+
+syntax
+
+if(condition){
+
+
+}
+
+
+else{
+
+
+}
+
+are you male of female
+
+
+eg:
+
+100 200
+200>100====true
+100>200====false
+if(200>100)//if(true){
+
+
+}
+else{
+
+}
+
+
+ex:
+
+if(age>=18){
+
+"eligible for voting"
+}else{
+
+"not eligible for voting"
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
