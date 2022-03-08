@@ -494,6 +494,87 @@ if(age>=18){
 
 
 
+Ecommrece app
+
+shop for 10000-->500
+
+shop for 500-->0
+
+shop for >15000-->1500
+
+public int calculateDiscount(long purchaseAmount){
+
+if(purchaseAmount >=501 && purchaseAmount <= 10000){
+return 500;
+}
+else if(purchaseAmount >=10000 && purchaseAmount <= 15000){
+return 1000;
+}
+else if(purchaseAmount >=15000 && purchaseAmount <= 30000){
+return 3000;
+}else{
+return 4000;
+}
+
+if(purchaseAmount>0 || purchaseAmount<0){
+
+retrun "Thank you for visiting"
+}
+
+
+1 2 
+a=1,b=2,c=3;
+
+logical operators
+&& ||
+
+&&
+T T  T
+T F  F
+F T  F
+
+||
+T T  T
+T F  T
+F F  F
+
+if(a>b && a>c)
+return "a is bigger"
+
+
+}
+
+if(b>a && b>c)
+return "b is bigger"
+
+
+}
+if(c>a && c>b)
+return "c is bigger"
+
+
+}
+
+
+discount_percent=
+
+
+datatyes
+variables
+methods
+arthemetic operators
+relational operators
+logical operators
+control statments
+-if else bolck
+-nested if else (else if ladder)
+
+
+
+
+
+
+
 
 
 
