@@ -569,6 +569,89 @@ control statments
 -if else bolck
 -nested if else (else if ladder)
 
+iterative statements
+-----------------
+for
+for each
+do while
+while
+
+key word    initilization        condition          increment/decrement
+for       (int i=1;             i>=10;               i++)
+
+for(int i=1; i>=10;  i++){
+1>=10--false
+Sysout(Hello);
+}
+
+
+
+for(int i=1; i<=10;  i++){
+1<=10--true
+2<=10-true
+11<=10--false
+Sysout(Hello);
+}
+
+Hello
+Hello
+-
+-
+-
+--
+Hello
+
+for each
+
+for(){
+
+}
+
+
+int a=1;
+int b=2;
+int c=3;
+int d=4;
+
+int []numbers={1,2,3,4,5,6,6}
+
+String name1="ABC";
+String name2="ABC";
+
+String []names={"Anmvd",""}
+
+
+for(int i=1; i<=10;i++){
+Sysout(names[i])
+
+}
+
+for(String name:names){
+
+Sysout(name)
+}
+
+
+int number[];
+Sting names[];
+
+Student{
+name;
+id;
+address;
+char
+
+
+
+}
+
+Student []students;
+
+
+
+
+
+
 
 
 
