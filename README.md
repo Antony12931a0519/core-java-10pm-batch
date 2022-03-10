@@ -648,6 +648,208 @@ char
 Student []students;
 
 
+String student_1_name="Abcd";
+String student_1_name1="Abcd";
+String student_1_name2="Abcd";
+String student_1_name3="Abcd";
+String student_1_name4="Abcd";
+String student_1_name44="Abcd";
+String student_1_name445="Abcd";
+String student_1_name="Abcd";
+String student_1_name1="Abcd";
+String student_1_name2="Abcd";
+String student_1_name3="Abcd";
+String student_1_name4="Abcd";
+String student_1_name44="Abcd";
+String student_1_name445="Abcd";
+String student_1_name="Abcd";
+String student_1_name1="Abcd";
+String student_1_name2="Abcd";
+String student_1_name3="Abcd";
+String student_1_name4="Abcd";
+String student_1_name44="Abcd";
+String student_1_name445="Abcd";
+String student_1_name="Abcd";
+String student_1_name1="Abcd";
+String student_1_name2="Abcd";
+String student_1_name3="Abcd";
+String student_1_name4="Abcd";
+String student_1_name44="Abcd";
+String student_1_name445="Abcd";
+String student_1_name="Abcd";
+String student_1_name1="Abcd";
+String student_1_name2="Abcd";
+String student_1_name3="Abcd";
+String student_1_name4="Abcd";
+String student_1_name44="Abcd";
+String student_1_name445="Abcd";
+String student_1_name="Abcd";
+String student_1_name1="Abcd";
+String student_1_name2="Abcd";
+String student_1_name3="Abcd";
+String student_1_name4="Abcd";
+String student_1_name44="Abcd";
+String student_1_name445="Abcd";String student_1_name="Abcd";
+String student_1_name1="Abcd";
+String student_1_name2="Abcd";
+String student_1_name3="Abcd";
+String student_1_name4="Abcd";
+String student_1_name44="Abcd";
+String student_1_name445="Abcd";
+
+
+String names[] = new String[n]
+n can be anything(any number)
+
+int marks1 = 100;
+int marks1 = 100;
+int marks1 = 100;
+int marks1 = 100;
+int marks1 = 100;
+int marks1 = 100;
+
+INteger marks[] = new Integer[5]();
+
+
+Student{
+String anme;
+int rollNumber;
+char initial:
+String branch;
+
+}
+
+Studnet student = new Student();
+student.set
+
+
+
+Student students[] = new Student[10];
+
+do while
+------------
+
+
+for(initilization; condition;increment/decremnt){
+}
+
+ex:
+for(int i=1; i<=10; i++){
+1----i<=10--true
+sysout--1
+2---->2<=10----true
+sysout-2
+
+}
+
+if else
+nested if else/else if laddr
+
+do while
+
+do{
+some set of code
+}while(condition);
+
+switch
+------
+switch board
+-fan swithc
+-light switch
+-geyser swich
+
+if(fan){
+}else if(light){
+}else if(geyser){
+}else if(s3){
+}else if(s4){
+}else{
+}
+
+
+
+switch(datattype){
+
+case datattype: set of code;
+break;
+
+case2 datattype:set of code;
+break;
+case datattype: set of code;
+break;
+
+-
+-
+-
+-
+--
+
+case n : set of code;
+case default : soe set of ciode;
+break;
+}
+
+
+ex:
+
+switch(1){
+
+case 1: set of code;
+
+case2 2 of code;
+
+case 3: set of code;
+
+}
+
+
+
+switch("bedlight"){
+
+case "fan": set of code;
+
+case "light": 2 of code;
+
+case "geyser": set of code;
+
+case default: some set o code
+
+}
+
+------------------
+
+The options available in the calculator are:
+1. Addition
+2.Sub
+3.Division
+4.Multiplication
+1
+You have selected addition
+enter the first value for addition :
+10
+enter the second value for addition :
+20
+The adiition of 10 and 20 is :30
+
+
+----------------
+The options available in the calculator are:
+1. Addition
+2.Sub
+3.Division
+4.Multiplication
+2
+You have selected sub
+enter the first value for sub :
+10
+enter the second value for sub :
+20
+The sub of 10 and 20 is :10
+
+
+
+
+
 
 
 

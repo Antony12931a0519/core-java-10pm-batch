@@ -6,6 +6,17 @@ public class Student {
 	public String address;
 	public char initial;
 
+	/*
+	 * (non-Javadoc)
+	 * 
+	 * @see java.lang.Object#toString()
+	 */
+	@Override
+	public String toString() {
+		return "Student [name=" + name + ", rollNumber=" + rollNumber
+				+ ", address=" + address + ", initial=" + initial + "]";
+	}
+
 	/**
 	 * @return the name
 	 */
