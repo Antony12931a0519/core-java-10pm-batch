@@ -846,6 +846,64 @@ enter the second value for sub :
 20
 The sub of 10 and 20 is :10
 
+exception handling
+5 lines
+1
+2
+3
+4
+5
+
+public class Demo{
+
+
+main(){
+
+try{
+
+sysout(1/0);
+0/1
+}catch(Exception ex){
+Sysout(ex.printstacKTrace())
+}
+
+
+
+}
+
+
+}
+
+enter the ing numner:
+1234
+abcd
+try{}catch()
+
+enter the amount--500
+transaction
+
+
+
+collection framework
+--------------------
+arrays
+
+int number=100;
+int number1=200;
+int number2=200;
+int number3=400;
+
+int [100]number={100,200,300,400,};
+
+Interfaces
+List
+Set
+Map
+
+
+
+
+
 
 
 
