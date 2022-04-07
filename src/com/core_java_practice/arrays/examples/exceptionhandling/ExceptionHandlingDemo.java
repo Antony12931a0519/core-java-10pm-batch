@@ -6,8 +6,16 @@ public class ExceptionHandlingDemo {
 		System.out.println("Hello Welcome to my App");
 		try {
 			System.out.println(1 / 0);
-		} catch (Exception ex) {
+		} catch (ArithmeticException ex) {
 			System.out.println(ex.getMessage());
+			System.out.println(ex.getMessage());
+			System.out
+					.println("any value with division 0 cannot be caluclated in java");
+		}
+
+		catch (Exception ex) {
+			System.out.println(ex.getMessage());
+			ex.printStackTrace();
 			System.out
 					.println("any value with division 0 cannot be caluclated in java");
 		} finally {
