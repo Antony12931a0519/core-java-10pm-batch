@@ -902,6 +902,218 @@ Map
 
 
 
+Inteface:
+----------
+
+public interface Animal{
+
+only abstract related stuff
+makeSound();
+typeOfaniml();
+
+
+}
+
+class SBI implements DOg{
+makeSound(){
+}
+typeOfaniml(){
+}
+}
+
+
+class SBI implements Cow{
+makeSound(){
+}
+typeOfaniml(){
+}
+}
+
+project
+
+100 tables
+
+CRUD operations
+create,Retrieve,Update and Delete
+
+Student
+-------
+Sid  Sname  Sadd
+--------------------
+101   Anthony   Hyd
+102   Sam       ATP 
+
+public interface BaseRepository{
+ceate();
+update();
+select();
+delete();
+}
+
+class table1 {
+ceateTable1(){
+
+}
+updateTable1(){
+}
+selectTable1(){
+}
+deleteTable1(){
+
+}
+
+
+}
+
+class table2 {
+ceatetable2(){
+
+}
+updatetable2(){
+}
+selecttable2(){
+}
+deletetable2(){
+
+}
+
+
+}
+
+Facebook:
+---------
+news feeds
+images
+friends
+
+
+DB:
+----
+newsfeed
+----------
+1
+2
+3
+4
+5
+67
+
+insert into newsfeed values();
+
+some method
+
+createnewsFeed(){
+insert into newsfeed values();
+}
+
+
+
+Images
+-------
+1
+2
+3
+4
+5
+
+insert into Images values();
+
+some method
+
+createImages(){
+insert into Images values();
+}
+
+friends
+-------
+
+10000
+basic four methods
+CRUD
+
+Tabl1 implements rep{
+
+}
+Tabl2
+
+
+
+List:
+------
+its an interface 
+100 numbers
+int n1=1;
+int n2=2;
+
+int [100]={}
+
+ArrayList
+Vector
+LinkedarrayList
+
+List<Integer> numbers = new ArrayList<>();
+numbers.add(1);
+numbers.add(13);
+numbers.add(14);
+numbers.add(14);
+numbers.add(16);
+
+numbers.get(0);
+
+for(Integer nuber: numbers){
+nuber;
+
+}
+
+
+
+List<String> names = new ArrayList<>();
+names.add("bjs");
+names.add("bwfefjs");
+names.add("bfwfwjs");
+names.add("bjs");
+names.add("bjs");
+
+for(String name: names){
+name;
+
+}
+
+List<Float> weights = new ArrayList<>();
+weights.add(10.2);
+weights.add(10.2);
+weights.add(10.2);
+weights.add(10.2);
+weights.add(10.2);
+weights.add(10.2);
+
+
+Students
+--------
+
+
+List<Student> students = new ArrayList<>();
+
+Student Student = new Student();
+Student.setis()
+
+students.add(Student);
+
+Student Student1 = new Student();
+Student.setis()
+students.add(Student1);
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
