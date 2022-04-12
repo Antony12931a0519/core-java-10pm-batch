@@ -9,7 +9,7 @@ public class ListwithStringExample {
 
 		// ant,dog,fox
 
-		List<String> animalNames = new ArrayList<>();
+		List<String> animalNames = new ArrayList<>();// Vector//LinkedArrayList//Stack
 
 		animalNames.add("Dog");
 		animalNames.add("Fox");
@@ -17,8 +17,9 @@ public class ListwithStringExample {
 		animalNames.add("Dog");
 		animalNames.add("Dog");
 		animalNames.add("Dog");
-		animalNames.add("Dog");		
-		
+		animalNames.add("Dog");
+
+		// animalNames.
 
 		for (String string : animalNames) {
 			System.out.println(string);

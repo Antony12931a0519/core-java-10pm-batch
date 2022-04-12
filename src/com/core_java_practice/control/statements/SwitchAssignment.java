@@ -72,7 +72,8 @@ public class SwitchAssignment {
 		case 4:
 			System.out.println("multiplication of " + a + "and " + b + " is "
 					+ multiplication(a, b));
-			break;
+		case 5:continue;
+			
 		default:
 			fallback();
 			break;

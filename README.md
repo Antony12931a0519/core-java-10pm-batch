@@ -1105,6 +1105,60 @@ students.add(Student1);
 
 
 
+numbers
+int/short/long
+
+nuber with deciel values
+double/flaot
+
+"ksnksnfks"
+String
+
+'A'
+char
+
+true/false
+boolean
+
+
+UserDefinded datatyye
+
+
+Student{
+
+
+
+}
+
+
+facebook;
+
+Friends:
+
+Details of student1:
+nam
+inital
+
+Details of student1:
+nam
+inital
+
+Details of student1:
+nam
+inital
+
+Details of student1:
+nam
+inital
+
+
+
+
+
+
+
+
+
 
 
 
