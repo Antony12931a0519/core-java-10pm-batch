@@ -1150,6 +1150,17 @@ inital
 Details of student1:
 nam
 inital
+   Datatypes
+Map<Key,Value> map = New HashMap<Key,Value>();
+
+map.put("1","Anthony");
+map.put(1,"Anthony");
+map.put('a',"Anthony");
+
+map.put("1",242);
+map.put(1,56);
+map.put('a',45646);
+
 
 
 
